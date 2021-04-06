@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 void perm(char S[], int k)
